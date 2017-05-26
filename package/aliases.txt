@@ -1,0 +1,4 @@
+alias ll='ls -l'
+alias l='ls -al'
+
+alias npi='~/nalbam-rpi/init.sh'
